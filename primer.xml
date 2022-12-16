@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+<catalog>
+    <main> Техническая информация 
+        <info> какая-то инфа</info>
+        <year> 2022 </year>
+        <month>12</month>
+        <day>16</day>
+    </main>
+    <main>
+    Техническая информация 
+        <info> какая-то инфа</info>
+        <year> 2022 </year>
+        <month>12</month>
+        <day>16</day>
+    </main>
+</catalog>
+

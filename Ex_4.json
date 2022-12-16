@@ -1,0 +1,8 @@
+{
+    "test": {
+        "query": "Виктор Иван",
+        "count": 7,
+        "parts": "NAME",
+        "parts1": "SURNAME"
+    }
+}

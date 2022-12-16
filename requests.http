@@ -1,0 +1,6 @@
+# запросы API
+GET https://www.youtube.com/
+
+###
+
+POST https://yandex.ru/search/?text=%D0%BA%D0%BE%D1%82%D1%8B&search_source=dzen_desktop_safe&lr=54

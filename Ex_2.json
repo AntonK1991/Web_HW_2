@@ -1,0 +1,32 @@
+{
+    "Products": [
+        {
+            "Product name": "Яблоки",
+            "Weight": 1000,
+            "Group": "Фрукты",
+            "Price": "150",
+            "Storage": 1
+        },
+        {
+            "Product name": "Картошка ранняя",
+            "Weight": 5000,
+            "Group": "Овощи",
+            "Price": "320",
+            "Storage": 2
+        },
+        {
+            "Product name": "Бананы",
+            "Weight": 1000,
+            "Group": "Фрукты",
+            "Price": "99",
+            "Storage": 1
+        },
+        {
+            "Product name": "Баунти мини",
+            "Weight": 100,
+            "Group": "Кондитерские изделия",
+            "Price": "180",
+            "Storage": 3
+        }
+    ]
+}
